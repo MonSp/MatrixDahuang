@@ -44,10 +44,11 @@ cd ../game && npm install && npm run dev
 
 ## 文档
 
-- [产品故事](company/docs/PRODUCT-STORY.md) — MDH 大荒界完整叙事
-- [架构设计](company/docs/compose/spec/mdh-unified-architecture.md) — 技术架构与任务清单
-- [品牌文档](company/docs/BRAND.md) — 品牌定位与产品矩阵
-- [技能映射](kernel/config/skill-mapping.json) — 42 技能 ↔ Game 世界能力
+- [产品故事](https://github.com/MonSp/MDH/blob/main/docs/PRODUCT-STORY.md) — MDH 大荒界完整叙事
+- [架构设计](https://github.com/MonSp/MDH/blob/main/docs/compose/spec/mdh-unified-architecture.md) — 技术架构与任务清单
+- [品牌文档](https://github.com/MonSp/MDH/blob/main/docs/BRAND.md) — 品牌定位与产品矩阵
+- [技能映射](https://github.com/MonSp/agent-kernel/blob/main/config/skill-mapping.json) — 42 技能 ↔ Game 世界能力
+- [Game 世界观](https://github.com/MonSp/MDH-Game/blob/main/docs/统一世界观与设计原则.md) — 大荒界九重天架构
 
 ## License
 
