@@ -1,0 +1,9 @@
+[submodule "company"]
+	path = company
+	url = https://github.com/MonSp/MDH.git
+[submodule "game"]
+	path = game
+	url = https://github.com/MonSp/MDH-Game.git
+[submodule "kernel"]
+	path = kernel
+	url = https://github.com/MonSp/agent-kernel.git
